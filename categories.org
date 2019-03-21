@@ -494,9 +494,6 @@
   cannot have position. Thus, some quantities consist of parts which
   have position, and some of those which have not.
 
-  - similar distinction are inherited to
-    Brentano's discussion about spatial and temporal continuum.
-
   Strictly speaking, only the things which I have mentioned belong to
   the category of quantity: everything else that is called quantitative
   is a quantity in a secondary sense. It is because we have in mind
