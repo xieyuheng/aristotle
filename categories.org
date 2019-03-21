@@ -440,8 +440,6 @@
   of continuous, lines, surfaces, solids,
   and, besides these, time and place.
 
-  - by saying such, continuum is quantity instead of substance.
-
   In the case of the parts of a number, there is no common boundary
   at which they join. For example: two fives make ten, but the two fives
   have no common boundary, but are separate; the parts three and seven
@@ -455,10 +453,6 @@
   which is vocal. Moreover, it is a discrete quantity for its parts
   have no common boundary. There is no common boundary at which the
   syllables join, but each is separate and distinct from the rest.
-
-  - if speech is a quantity,
-    then quantities are those can be measured,
-    but not only the mathematical structure used to measure them.
 
   A line, on the other hand, is a continuous quantity, for it is possible
   to find a common boundary at which its parts join. In the case of
